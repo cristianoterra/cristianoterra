@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(39, 39, 95);
+  }
+  ul {
+    color: rgb(92, 92, 81);
+    font-size: 24px;
+    font-weight: 700;
+  }
+  img {
+    border-radius: 50%;
+  }
+  p {
+    color: rgb(92, 92, 81);
+    font-size: 24px;
+    font-weight: 700;
+  }
